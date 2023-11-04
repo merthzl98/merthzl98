@@ -1,4 +1,4 @@
-Hi, My name is Mert Hızal 👋🏻
+Hi! My name is Mert Hızal 👋🏻
 ========================================================================================================================================
 
 💻 I am a Front-End Developer based in Istanbul, Turkey.
